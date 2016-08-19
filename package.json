@@ -1,0 +1,19 @@
+{
+  "name": "log-it-up",
+  "version": "0.1.0",
+  "description": "Log it up.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxmik/log-it-up.git"
+  },
+  "author": "Max Mikkola",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxmik/log-it-up/issues"
+  },
+  "homepage": "https://github.com/maxmik/log-it-up#readme"
+}
